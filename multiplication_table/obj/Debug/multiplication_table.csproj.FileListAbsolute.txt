@@ -1,0 +1,10 @@
+D:\vsprojects\repos\multiplication_table\multiplication_table\bin\Debug\multiplication_table.exe.config
+D:\vsprojects\repos\multiplication_table\multiplication_table\bin\Debug\multiplication_table.exe
+D:\vsprojects\repos\multiplication_table\multiplication_table\bin\Debug\multiplication_table.pdb
+D:\vsprojects\repos\multiplication_table\multiplication_table\obj\Debug\multiplication_table.csproj.AssemblyReference.cache
+D:\vsprojects\repos\multiplication_table\multiplication_table\obj\Debug\multiplication_table.Form1.resources
+D:\vsprojects\repos\multiplication_table\multiplication_table\obj\Debug\multiplication_table.Properties.Resources.resources
+D:\vsprojects\repos\multiplication_table\multiplication_table\obj\Debug\multiplication_table.csproj.GenerateResource.cache
+D:\vsprojects\repos\multiplication_table\multiplication_table\obj\Debug\multiplication_table.csproj.CoreCompileInputs.cache
+D:\vsprojects\repos\multiplication_table\multiplication_table\obj\Debug\multiplication_table.exe
+D:\vsprojects\repos\multiplication_table\multiplication_table\obj\Debug\multiplication_table.pdb
